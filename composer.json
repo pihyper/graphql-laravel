@@ -35,7 +35,7 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "~5.1",
+        "illuminate/support": "^5.1",
         "webonyx/graphql-php": "dev-master",
         "laravel/laravel": "^5.1"
     },
